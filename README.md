@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Kaisei
-**Thank you for visiting my profile. I have learned programming by myself and have experienced to develop some languages**
+**Thank you for visiting my profile. I have learned programming by myself and have experienced through personal projects in some languages**
 
 ## Tech
 ### Frontend
