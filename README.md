@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Kaisei
-**Thank you for visiting my profile. I have learned programming by myself and have experienced to develop some languages:HTML,CSS(Sass),Javascript,Vue,PHP(specifically involved WordPress).**
+**Thank you for visiting my profile. I have learned programming by myself and have experienced to develop some languages**
 
 ## Tech
 ### Frontend
