@@ -3,9 +3,9 @@
 
 ## Tech
 ### Frontend
-**👨‍💻Coding** : Mostly I have experienced to develop somethings related to websites;HTML, CSS(Sass), Javascript, WordPress. For HTML, CSS I assciated with that most so I know how to coding or develop websites and when it comes to Javascript, I also developed websites which is dynamic and animation. For WordPress, I can create websites with Wordpress from theme so I know about PHP a little bit.  
+**👨‍💻Coding** : Mostly I have experienced to develop somethings related to websites;**HTML, CSS(Sass), Javascript, WordPress**. For HTML, CSS I assciated with that most so I know how to coding or develop websites and when it comes to Javascript, I also developed websites which is dynamic and animation. For WordPress, I can create websites with Wordpress from theme so I know about PHP a little bit.  
 
-**🎨Design** : 
+**🎨Design** : I originally statrted programming, I don't detail about design. so I don't stick neither though, I have curious to design not only websites also any oher products. 
 
 You can see my websites where I designed and developed here. 
 
