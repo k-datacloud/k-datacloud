@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm Kaisei
-**Thank you for visiting my profile. I have learned programming by myself and have experienced to develop some languages:HTML,CSS(Sass),Javascript,Vue,PHP(specifically involved WordPress).
+**Thank you for visiting my profile. I have learned programming by myself and have experienced to develop some languages:HTML,CSS(Sass),Javascript,Vue,PHP(specifically involved WordPress).**
+
+## Tech
+### Frontend
+### Backend
 
 ## Reach out to me
 📩: k25ts09@outlook.jp  
@@ -8,13 +12,13 @@
 
 ## Languages I speak
 - Japanese (Native)  
-- English (Elementary ～ Pre-Intermediate)
+- English (Elementary ～ Pre-Intermediate) 
   
 
 
 ## Fun facts
-🤔: **I'm not sure**  
-🌱: Since 2024, I started learing English and I get into that 😊. However, There are little moment where I can use that language so If There is someone who don't have and language exchange partner or who looking for someone to improve your speking, Let's support each other. Feel free to ask and send messages to me!
+: **I'm not sure**  
+🌱 **Language learning** : Since 2024, I started learing English and I get into that 😊. However, There are little moment where I can use that language so If There is someone who don't have and language exchange partner or who looking for someone to improve your speking, Let's support each other. Feel free to ask and send messages to me!
 
 <!--
 **k-datacloud/k-datacloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
