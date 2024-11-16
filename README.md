@@ -5,9 +5,12 @@ Thank you for visiting my profile. I have learned programming by myself and have
 📩: k25ts09@outlook.jp  
 🌐:https://www.linkedin.com/in/s-kaisei/
 
+
 ## Languages I speak
 - Japanese (Native)  
 - English (Elementary ～ Pre-Intermediate)
+  
+
 
 ## Fun facts
 #### I'm not sure 🤔 
