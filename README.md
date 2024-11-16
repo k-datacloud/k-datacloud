@@ -26,6 +26,7 @@ I have only limited experience with Django, as I developed a web application wit
 ## Fun facts
 🙋**About me** : I’m not sure if my ultimate goal is to become a software engineer. I also haven’t figured out what I want to do in the future. However, I’m thankful to have learned programming, and I’m interested in continuing to explore this field. I’d like to try different things and learn along the way. I’m still figuring it out!  
 
+
 🌱 **Language learning** : Since 2024, I have been learning English and enjoying the process 😊. However, I rarely have opportunities to use it in real life. If you are looking for a language exchange partner or want to improve your speaking skills, let’s support each other! Feel free to reach out and send me a message.
 
 <!--
