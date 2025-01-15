@@ -29,8 +29,6 @@ I have only limited experience with Django, as I developed a web application wit
 
 🌱 **Language learning** : Since 2024, I have been learning English and enjoying the process😊. However, I rarely have opportunities to use it in real life, even though I want to use it both casual and practical way. If you are looking for a language exchange partner or want to improve your speaking skills, let’s support each other! Feel free to reach out and send me a message. Additionally, If you think whether or not I can work with english, let me attempt to work with you. I'll do what I can.
 
-https://howtosayguide.com/how-to-say-also-formally/
-
 <!--
 **k-datacloud/k-datacloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
