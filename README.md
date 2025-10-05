@@ -17,7 +17,7 @@ I have only limited experience with Django, when I developed a web application w
 
 ## Languages I speak
 - Japanese (Native)  
-- English (Pre-Intermediate) 
+- English (Intermediate) 
   
 
 
