@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Kaisei
-**Thank you for visiting my profile. I am web developer and designer based in Hyogo, Japan**
+**Thank you for visiting my profile. I am web developer and designer based Japan**
 
 ## Tech
 ### Frontend
